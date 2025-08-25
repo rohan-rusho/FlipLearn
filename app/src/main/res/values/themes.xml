@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme (Light) -->
+    <style name="Base.Theme.FlipLearn" parent="Theme.Material3.Light.NoActionBar">
+        <!-- You can define light theme customizations here -->
+    </style>
+
+    <!-- Dark theme -->
+    <style name="Theme.FlipLearn" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/colorSurfaceVariant</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="ToolbarTitleBoldLarge" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorOnSurface</item>
+    </style>
+</resources>

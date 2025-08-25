@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="colorPrimary">#4F46E5</color>      <!-- Indigo 600 -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#14B8A6</color>    <!-- Teal 500 -->
+    <color name="colorOnSecondary">#06221E</color>
+    <color name="colorTertiary">#F59E0B</color>     <!-- Amber 500 -->
+    <color name="colorOnTertiary">#241A04</color>
+
+    <!-- Surfaces -->
+    <color name="colorSurface">#0F172A</color>      <!-- Slate 900 -->
+    <color name="colorOnSurface">#E5E7EB</color>    <!-- Gray 200 -->
+    <color name="colorSurfaceVariant">#111827</color>
+    <color name="colorCard">#111827</color>
+    <color name="colorCardStroke">#1F2937</color>
+    <color name="colorHint">#9CA3AF</color>
+
+    <!-- Gradient background stops -->
+    <color name="bgTop">#131B37</color>
+    <color name="bgMid">#18244B</color>
+    <color name="bgBottom">#154868</color>
+</resources>
